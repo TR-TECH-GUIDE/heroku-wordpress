@@ -10,7 +10,7 @@ This project is for installing and running [WordPress](http://wordpress.org/) on
 
 Clone the repository from Github
 
-    $ git clone git://github.com/php4dev/heroku-wordpress.git
+    $ git clone git://github.com/tr-tech-guide/heroku-wordpress.git
 
 With the [Heroku gem](http://devcenter.heroku.com/articles/heroku-command), create your app
 
